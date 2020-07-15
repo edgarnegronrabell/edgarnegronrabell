@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+My name is Edgar Negrón. I'm a self taught programmer from Puerto Rico. I have a Bachelor's degree in Audiovisual Communications 
+				and I'm a film freak. I decided to switch careers in January 2019 and since then have begun my journey to become a programmer. 
+				I have studied Front-end languages and frameworks such as HTML, CSS, SASS, JavaScript, Bootstrap, Bulma, and Vue.js but I'm also familiar 
+				with Back-end languages and frameworks such as NodeJS, Express and MongoDB. Since 2019, I have been working as a Web Developer for 
+				the Center for Puerto Rican Studies in Hunter College where I have worked with Drupal, SCSS, Bootstrap Python, Dash and Flask. 
+				Earlier this year, I started working on a Full-Stack project implementing the MEVN stack, and improving my skills in Vue.js, Node, Express and Mongo DB.
+        
 <!--
 **edgarnegronrabell/edgarnegronrabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
